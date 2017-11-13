@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" type="text/css" />
 	<link rel="stylesheet" type="text/css" href="styles/siteStyle.css" />
+	<link rel="stylesheet" type="text/css" href="styles/contactStyle.css" />
 </head>
 <body>
 	<section class="content">
@@ -39,9 +40,16 @@
 				</div> <!--cnt fld-->
 			</nav>
 		</header>
+		<img class="img-responsive" src="images/ford.jpg"/>
 		<form class="col-sm-12">
-
-
+			<fieldset>
+				<legend>Enter your Contact info below:</legend>
+				<p><label>Full Name: <input name="fullName" required/></label></p>
+				<p><label>Telephone(optional): <input name="phoneNumb" type="tel"/></label></p>
+				<p><label>Email address: <input type="email" name="email" required/></label></p>
+				<p><label>Questions/Comments: <textarea name="commTxt"></textarea></label></p>
+				<p><button id="submit">Submit</button></p>
+			</fieldset>
 		</form>
 		<footer class="col-sm-12 center-block">
 			<div class="footAddress">

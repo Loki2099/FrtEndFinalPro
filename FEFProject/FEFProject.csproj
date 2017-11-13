@@ -77,9 +77,13 @@
   <ItemGroup>
     <Content Include="about.html" />
     <Content Include="contact.html" />
+    <Content Include="images\ford.jpg" />
+    <Content Include="images\t-bird64.jpg" />
     <Content Include="images\yinyany.jpg" />
     <Content Include="index.html" />
     <Content Include="inventory.html" />
+    <Content Include="styles\aboutStyle.css" />
+    <Content Include="styles\contactStyle.css" />
     <Content Include="scripts\indexScript.js" />
     <Content Include="scripts\siteScript.js" />
     <Content Include="styles\indexStyle.css" />

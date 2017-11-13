@@ -1,4 +1,4 @@
 ﻿$(function (){
 	var vid = $("#indexVid");
-	vid[0].play();
+	//vid[0].play();
 })
