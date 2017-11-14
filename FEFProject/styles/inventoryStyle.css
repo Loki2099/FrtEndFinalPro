@@ -3,3 +3,7 @@
 	color:firebrick;
 	background-color:mediumslateblue;
 }
+
+.hidden{
+	display:none;
+}
