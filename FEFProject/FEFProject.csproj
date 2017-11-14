@@ -78,13 +78,13 @@
   <ItemGroup>
     <Content Include="about.html" />
     <Content Include="contact.html" />
-    <Content Include="images\Camaro69.jpg" />
-    <Content Include="images\ford.jpg" />
-    <Content Include="images\Hummer.jpg" />
+    <Content Include="images\Camaro69.png" />
+    <Content Include="images\ford.png" />
+    <Content Include="images\Hummer.png" />
     <Content Include="images\mailTruck2.jpg" />
-    <Content Include="images\mercedes6x6.jpg" />
+    <Content Include="images\mercedes6x6.png" />
     <Content Include="images\pos.jpg" />
-    <Content Include="images\t-bird64.jpg" />
+    <Content Include="images\t-bird64.png" />
     <Content Include="images\yinyany.jpg" />
     <Content Include="index.html" />
     <Content Include="inventory.html" />
